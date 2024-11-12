@@ -29,6 +29,7 @@ a{
 }
 
 p{
+    max-width: 35ch;
     color: var(--color-grey);
     line-height: 1.5;
 }

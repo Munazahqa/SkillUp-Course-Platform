@@ -20,4 +20,11 @@
     }
 
 
+@media (width >= 75em){
+    .header .logo{
+        width: 6.9375rem;
+    }
+}
+
+
 
