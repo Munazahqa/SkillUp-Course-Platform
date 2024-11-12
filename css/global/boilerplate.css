@@ -28,6 +28,11 @@ a{
     text-decoration: none;
 }
 
+p{
+    color: var(--color-grey);
+    line-height: 1.5;
+}
+
 img{
     display: block;
     max-width: 100%;        /* So the img donot over-flow the container */
