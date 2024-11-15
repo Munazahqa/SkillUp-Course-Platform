@@ -6,9 +6,6 @@
     padding-block: 16px;
 }
 
-.header .logo{
-    width: 4.955625rem;
-}
 
 
 
@@ -18,13 +15,6 @@
     }
 
     }
-
-
-@media (width >= 75em){
-    .header .logo{
-        width: 6.9375rem;
-    }
-}
 
 
 

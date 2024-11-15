@@ -28,3 +28,18 @@
     opacity: 0.5;
 }
 
+.button.purple{
+    background: var(--gradient-purple);
+    color: var(--color-white);
+}
+.button.purple:hover{
+    opacity: 0.5;
+}
+
+
+@media (width >= 75em){
+    .button{
+        padding: 16px 32px;
+    }
+}
+

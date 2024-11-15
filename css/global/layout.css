@@ -15,9 +15,5 @@
     }
 
 }
-@media(width >= 50.625em){
-    .courses .wrapper{
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
+
 

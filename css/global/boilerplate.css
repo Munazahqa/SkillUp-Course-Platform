@@ -45,3 +45,18 @@ img{
     height: auto;
 
 }
+
+.logo{
+    width: 4.955625rem;
+    transition: opacity 150ms ease-in-out;
+}
+
+@media (width >= 75em){
+.logo{
+    width: 6.9375rem;
+}
+}
+
+.logo:hover{
+    opacity: 0.75;
+}
